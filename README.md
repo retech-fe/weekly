@@ -14,13 +14,13 @@ Re:Tech FE Weekly技术周刊，由Re:Tech FE团队维护整理的技术周刊�
 
 - **桌面开发**，PC 桌面跨平台软件开发技术，如 NW、Electron、tauri 等等
 
-- **工程化**，工程化相关技术动态，如 Webpack、Vite、rollup、esBuild、Parcel 等等
+- **工程化**，工程化相关技术动态，如 Webpack、rollup、ESbuild、Vite、Parcel 等等
 
 - **跨端框架技术**，跨端与跨框架的技术动态，如Flutter、RN、小程序跨端解决方案动态等等
 
-- **低代码**，低代码无代码的技术动态，如配置化、动态化、建站、移动应用低代码开发等等
+- **低代码**，低代码无代码的技术动态，如配置化、动态化、容器化、建站、清应用、移动应用低代码开发等等
 
-- **服务端开**发，与前端紧密相关的服务端技术动态，如传统服务端开发、Severless 等等
+- **服务端开发**，与前端紧密相关的服务端技术动态，如传统服务端开发、Severless 等等
 
 - **图形编程**，图表、动画、游戏、AR/VR 等技术动态
 
@@ -32,7 +32,7 @@ Re:Tech FE Weekly技术周刊，由Re:Tech FE团队维护整理的技术周刊�
 
 ### 2022
 
-- [第 1 期 0716](https://github.com/retech-fe/weekly/blob/main/001.md)
+- [第 1 期 0716](https://github.com/retech-fe/weekly/blob/main/articles/001.md)
 
 ## 贡献指南
 
