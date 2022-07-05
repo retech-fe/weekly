@@ -34,7 +34,7 @@ Re:Tech FE Weekly技术周刊，由Re:Tech FE团队维护整理的技术周刊�
 
 ### 2022
 
-- [第 0 期 20220705](https://github.com/retech-fe/weekly/blob/main/articles/000.md)
+- **模板**[第 0 期 20220705](https://github.com/retech-fe/weekly/blob/main/articles/000.md)
 - [第 1 期 20220716](https://github.com/retech-fe/weekly/blob/main/articles/001.md)
 
 ## 贡献指南
