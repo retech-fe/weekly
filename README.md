@@ -28,10 +28,12 @@ Re:Tech FE Weekly技术周刊，由Re:Tech FE团队维护整理的技术周刊�
 
 - **工具推介**，介绍业界有意思、好玩的工具
 
+## 内容
 
-## 📚 Weekly：
+### 2022
 
-## 第一期 🆕
+- [第 48 期 0126](https://github.com/retech-fe/weekly/blob/main/001.md)
 
-1. [vite + vue3 + ts 开箱即用现代开发模板](https://github.com/dishait/tov-template)
-2. [Vue 无虚拟 DOM 模式即将到来](https://juejin.cn/post/7109676524550553630)
+## 贡献指南
+
+- [周刊贡献指南](https://github.com/retech-fe/weekly/wiki/%E5%91%A8%E5%88%8A%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97)
