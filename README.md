@@ -54,6 +54,7 @@ Re:Tech FE Weekly 技术周刊，由 Re:Tech FE 团队维护整理的技术周�
 - [字节前端-技术周报](https://juejin.cn/user/4098589725834317)
 - [前端精读](https://github.com/ascoders/weekly)
 - [林不渡的前端周刊](https://fe-weekly.netlify.app/)
+- [Ohbug 前端周刊](https://github.com/ohbug-org/weekly)
 
 ## 贡献指南
 
