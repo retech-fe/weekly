@@ -1,6 +1,6 @@
 # Re:Tech FE Weekly
 
-> **沧海拾遗，积跬步以至千里**
+> **整理一周业界精华文章，打开前端视野**
 
 ## 简介
 
@@ -54,6 +54,7 @@ Re:Tech FE Weekly 技术周刊，由 Re:Tech FE 团队维护整理的技术周�
 - [前端精读](https://github.com/ascoders/weekly)
 - [林不渡的前端周刊](https://fe-weekly.netlify.app/)
 - [Ohbug 前端周刊](https://github.com/ohbug-org/weekly)
+- [前端食堂](https://github.com/Geekhyt/weekly)
 
 ## 贡献指南
 
